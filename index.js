@@ -9,6 +9,7 @@
 // @match        *://www.baidu.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=flowus.cn
 // @grant        none
+// @license      MIT
 // ==/UserScript==
 (function () {
     /** 默认字体 */
